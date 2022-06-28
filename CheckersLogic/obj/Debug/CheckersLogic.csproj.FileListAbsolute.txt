@@ -1,0 +1,6 @@
+C:\Users\Idan\source\repos\c#\מטלה5\B22 Ex05 IdanZimilis 316133222 KerenTemkin 206892143\CheckersLogic\bin\Debug\CheckersLogic.dll
+C:\Users\Idan\source\repos\c#\מטלה5\B22 Ex05 IdanZimilis 316133222 KerenTemkin 206892143\CheckersLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\Idan\source\repos\c#\מטלה5\B22 Ex05 IdanZimilis 316133222 KerenTemkin 206892143\CheckersLogic\obj\Debug\CheckersLogic.csproj.AssemblyReference.cache
+C:\Users\Idan\source\repos\c#\מטלה5\B22 Ex05 IdanZimilis 316133222 KerenTemkin 206892143\CheckersLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\Idan\source\repos\c#\מטלה5\B22 Ex05 IdanZimilis 316133222 KerenTemkin 206892143\CheckersLogic\obj\Debug\CheckersLogic.dll
+C:\Users\Idan\source\repos\c#\מטלה5\B22 Ex05 IdanZimilis 316133222 KerenTemkin 206892143\CheckersLogic\obj\Debug\CheckersLogic.pdb
